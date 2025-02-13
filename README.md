@@ -12,10 +12,8 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
 
 🔗 Conecte-se comigo no LinkedIn:
 (https://www.linkedin.com/in/nastodessa/)
-
-
 <p align="left">
-           <a href="https://github.com/nastodessa?tab=repositories&sort=stargazers">
+    <a href="https://github.com/nastodessa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -30,8 +28,6 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
         />
     </a>
 </p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -92,13 +88,14 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-
+<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -107,5 +104,13 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
   />
 
 </p>
+
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/af11d3ae-f648-4c68-bea5-883b67142dfc" width="180px" alt="GIF animado">
+</p>
+
+
+
 
 
