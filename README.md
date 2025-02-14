@@ -28,10 +28,7 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
         />
     </a>
 </p>
-<p align="right">
-    <img src="https://github.com/user-attachments/assets/af11d3ae-f648-4c68-bea5-883b67142dfc" width="180px" alt="GIF animado">
-</p>
-
+];
 ### 🤖 Linguagens e Tecnologias
 
 <img 
