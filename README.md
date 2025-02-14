@@ -92,19 +92,6 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-<br>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nastodessa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/af11d3ae-f648-4c68-bea5-883b67142dfc" width="180px" alt="GIF animado">
