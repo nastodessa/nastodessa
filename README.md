@@ -88,18 +88,31 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br><br><br>
 
+<div align="center">
+<table border="none">
+  <tr>
+    <td>
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=nastodessa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+    </td>
+ <td>
 
-<br/>
-<br/>
-
-
-<p align="right">
+  <p align="right">
     <img src="https://github.com/user-attachments/assets/af11d3ae-f648-4c68-bea5-883b67142dfc" width="180px" alt="GIF animado">
 </p>
 
-
+ </td>
+</tr>
+</table>
 
 
 
