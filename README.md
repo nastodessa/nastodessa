@@ -28,7 +28,7 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
         />
     </a>
 </p>
-];
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
