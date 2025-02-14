@@ -93,7 +93,7 @@ Além disso, estou sempre disposto a compartilhar conhecimento com outros e troc
 <br/>
 
 
-<p align="center">
+<p align="left">
     <img src="https://github.com/user-attachments/assets/af11d3ae-f648-4c68-bea5-883b67142dfc" width="180px" alt="GIF animado">
 </p>
 
